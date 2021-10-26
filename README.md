@@ -25,9 +25,9 @@ npm i
 
 * Install Plug extension to your browser, <https://github.com/psychedelic/plug/blob/develop/docs/install-plug-in-chrome.md>
 
-* Download the plug extension
+* Download the plug extension to your local using the crx downloader/extension
 
-* Add the extension path to the index.js file
+* Add the extension path on your local to index.js file
 
 * Type this on your terminal to run:
 
