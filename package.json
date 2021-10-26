@@ -1,0 +1,21 @@
+{
+  "name": "plug-automation",
+  "version": "1.0.0",
+  "description": "Test automation framework for plug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Web extension",
+    "Fleek",
+    "Plug wallet",
+    "Puppeteer",
+    "Automation"
+  ],
+  "author": "Nnamadim Uchenna",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
